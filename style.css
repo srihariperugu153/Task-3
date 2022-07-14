@@ -1,0 +1,23 @@
+table{
+    width: auto;
+    height: 50px;
+    margin-top: 50px;
+    text-align: center;
+    background: rgb(179, 173, 226);
+    color: rgb(26, 15, 15);
+    }
+    #show th, #show td{
+    padding: 10px;
+    }
+    body{
+        background:#4b82b3;
+        font-family: 'karla', sans-serif;
+        background-image: url(https://wallpapercave.com/wp/wp2542537.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        
+    #btna td input{
+    width: 450%;
+    }
+    
